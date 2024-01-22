@@ -12,3 +12,6 @@ if checkabc == 'Да' or checkabc == 'да':
             if x<=8:
                 print(v, a, x)
 print('Hello world!')
+
+gen= [5*a for a in range(1, 11)]
+print(gen)
