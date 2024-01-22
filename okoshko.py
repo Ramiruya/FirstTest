@@ -1,6 +1,7 @@
 import tkinter as tk
 window = tk.Tk()
-greeting = tk.Label(text = 'Hello, world!')
+greeting = tk.Label(text = 'Hello, world!',
+                   foreground = 'blue')
 greeting.pack()
-print(oeqwe)
+
 window.mainloop()
