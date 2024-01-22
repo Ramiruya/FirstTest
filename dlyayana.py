@@ -11,3 +11,4 @@ if checkabc == 'Да' or checkabc == 'да':
             x = v**2*math.sin(math.radians(2*a))/9.8
             if x<=8:
                 print(v, a, x)
+print('Hello world!')
